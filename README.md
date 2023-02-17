@@ -11,3 +11,7 @@ Observabilidade é a forma que você tem para entender o que está acontecendo n
 Ex:
 
 A pessoa entrou no site -> bateu no sistema -> caiu no banco de dados -> mandou uma mensagem foi para RabbitMQ -> Caiu em outro sistema leu o banco de dados -> ...
+
+========================================
+
+
